@@ -25,4 +25,4 @@
   <b>final Thoughts </b>
   <b> Github is really good platform to showcase your skills mark my words believe in god believe in yourself believe in me Opensource is Future 
   so contribute to the opensource community Hope you get the basics github demo Thank You all stay tuned</b>\
-  <b> This is not going to waste your time if you are begginer to github Ok PR are always welcome</b>
+  <b> This is not going to waste your time if you are begginer to github Ok PR and suggestions/changes  are always welcome</b>
