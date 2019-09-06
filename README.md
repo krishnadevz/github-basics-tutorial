@@ -26,3 +26,5 @@
   <b> Github is really good platform to showcase your skills mark my words believe in god believe in yourself believe in me Opensource is Future 
   so contribute to the opensource community Hope you get the basics github demo Thank You all stay tuned</b>\
   <b> This is not going to waste your time if you are begginer to github Ok PR and suggestions/changes  are always welcome</b>
+<b>Bonus Tips By me </b>
+<p> You can add your all good projects to the github and give the link of your github repository project credentials and submit so recruiter can see that ok </p> 
