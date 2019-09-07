@@ -21,6 +21,7 @@
   
   <b> Last instuctions you do same with desktop version of github simply you to create folder and push new file to that ok 
   and if someone sends you pull request for creating changes in your code you have to go through it and then click to merge in your code and this all about basics of github You can write documentation of project using html you all guys known that language :)</b>
+  if you think you comfortable with CLI (command line interface ) you can see basic gitbash pdf in this repository for that you need to install gitbash in your system accordingly to the os flavour ok .
   
   <b>final Thoughts </b>
   <b> Github is really good platform to showcase your skills mark my words believe in god believe in yourself believe in me Opensource is Future 
