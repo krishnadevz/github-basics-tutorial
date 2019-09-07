@@ -2,14 +2,14 @@
 <p>Here you can learn basics of github</p>
 
  <b>Step 1 click for new repository on  your browser github after Login</b>
-   <img src="https://github.com/krishnakakade1999/github-basics-tutorial/blob/master/basics/Annotation%202019-09-06%20202811.png" alt="one" height="42" width="42">  <b> the side image for knowing Where to do
+   <img src="https://github.com/krishnakakade1999/github-basics-tutorial/blob/master/basics/Annotation%202019-09-06%20202811.png" alt="one" >  <b> the side image for knowing Where to do
   
  <b> Step 2 In Repository name give some space/hiphens or if you give space it automatically converted to hiphens( - ) ok </b>
   
-  <img src="https://github.com/krishnakakade1999/github-basics-tutorial/blob/master/basics/Annotation%202019-09-06%20203836.png" alt="two" height="42" width="42">  <b> the side image for knowing Where to do</b>
+  <img src="https://github.com/krishnakakade1999/github-basics-tutorial/blob/master/basics/Annotation%202019-09-06%20203836.png" alt="two" >  <b> the side image for knowing Where to do</b>
   
   <b> Step 3 Always put repository in public mode because any one can contribute to your code anyone can use this called as Opensource Ok </b>
-  <img src="https://github.com/krishnakakade1999/github-basics-tutorial/blob/master/basics/Annotation%202019-09-06%20203945.png" alt="three" height="42" width="42">  <b> the side image for knowing Where to do
+  <img src="https://github.com/krishnakakade1999/github-basics-tutorial/blob/master/basics/Annotation%202019-09-06%20203945.png" alt="three" >  <b> the side image for knowing Where to do
   
   
   <b><p>please follow the  instructions for you guys please follow this 
@@ -19,7 +19,7 @@
   
   <b> why CONTRIBUTING.md file we have to add in our repository for giving instrunctions how to contribute to the project ok </p></b>
   
-  <b> Last instuctions you do same with destop version of github simply you to create folder and push new file to that ok 
+  <b> Last instuctions you do same with desktop version of github simply you to create folder and push new file to that ok 
   and if someone sends you pull request for creating changes in your code you have to go through it and then click to merge in your code and this all about basics of github You can write documentation of project using html you all guys known that language :)</b>
   
   <b>final Thoughts </b>
