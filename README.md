@@ -31,4 +31,4 @@
 
 <b>Bonus Tips By me </b>
 <p> You can add your all good projects to the github and give the link of your github repository project on linkedin project section add credentials and submit so recruiter can see that ok like that i also did on my linkedin profile Thank you</p> 
-Above all documentation written in plan html code :)
+Above all documentation written in plane html code :)
