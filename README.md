@@ -24,11 +24,17 @@
   if you think you comfortable with CLI (command line interface ) you can see basic gitbash pdf in this repository for that you need to install gitbash in your system accordingly to the os flavour ok .
   
   <b>final Thoughts </b>
-  <b> Github is really good platform to showcase your skills mark my words believe in god believe in yourself believe in me Opensource is Future 
-  so contribute to the opensource community Hope you get the basics github demo Thank You all stay tuned</b>\
-  <b> This is not going to waste your time if you are begginer to github Ok PR and suggestions/changes  are always welcome</b>
+  <b> Github is really good platform to showcase your skills mark my words believe in god believe in yourself believe in me Opensource is Future <br>
+  so contribute to the opensource community Hope you get the basics github demo Thank You all stay tuned</b>
+  <br>
+  <b> This is not going to waste your time if you are begginer to github Ok PR(pull requests) and suggestions/changes  are always welcome</b>
 
 
 <b>Bonus Tips By me </b>
 <p> You can add your all good projects to the github and give the link of your github repository project on linkedin project section add credentials and submit so recruiter can see that ok like that i also did on my linkedin profile Thank you</p> 
+
 Above all documentation written in plane html code :)
+
+## Author
+
+* **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
